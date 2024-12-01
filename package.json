@@ -1,0 +1,18 @@
+{
+  "name": "api-s3-lambda-task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.5.5",
+    "aws-cdk": "^2.159.1",
+    "aws-cdk-lib": "^2.159.1",
+    "constructs": "^10.3.0"
+  }
+}
